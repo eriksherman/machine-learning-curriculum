@@ -2,7 +2,7 @@
 Erik Sherman's machine learning curriculum
 (inspired by [Siraj Raval's](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and [Christos Zonios'](https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html)). 
 
-This curriculum is meant to meant for beginner / intermediate programmers to go from little to no data science knowledge to general knowledge of the basics of machine learning and being able to understand and implement various ML algorithms to solve real-world problems. 
+This curriculum is meant for beginner / intermediate programmers to go from little to no data science knowledge to a solid general knowledge of machine learning algorithms and how to understand and implement them to solve real-world problems. 
 
 * linear algebra ([intuition](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab "3Blue1Brown's series")
 and [main course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ "MIT course")) 
