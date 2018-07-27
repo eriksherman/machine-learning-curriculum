@@ -7,7 +7,7 @@ This curriculum is meant for beginner / intermediate programmers to go from litt
 * linear algebra ([intuition](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab "3Blue1Brown's series")
 and [main course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/ "MIT course")) 
 
-* [web programming with python and javascript] (https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript "CS50 course") (this is included so that we are able to create a GUI for apps and projects that we make)
+* [web programming with python and javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript "CS50 course") (this is included so that we are able to create a GUI for apps and projects that we make)
 
 * python and data science basics ([intro](https://classroom.udacity.com/courses/ud359 "Udacity's intro to data science") and [main course](https://www.edx.org/course/python-for-data-science "GIT's course on edX"))
 
