@@ -17,4 +17,4 @@ and [main course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-s
 (https://www.coursera.org/learn/machine-learning) this course is more math heavy and goes into the implementation of the algorithms. People who have taken the course recommend to write the assignments in python instead of octave to avoid having to learn another programming language and spending all your time debugging foreign code.
 
 
-* extra: [Andrew NG's deep learning course](https://www.coursera.org/learn/neural-networks-deep-learning) (in python!) to take your machine learning knowledge to the next level with deep learning
+* extra: [Andrew NG's deep learning course](https://www.coursera.org/learn/neural-networks-deep-learning) (in python!) to take our machine learning knowledge to the next level with deep learning
