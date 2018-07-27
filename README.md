@@ -1,6 +1,6 @@
 # machine-learning-curriculum
 Erik Sherman's machine learning curriculum
-(inspired by [Siraj Raval's](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and [Christos Zonios'(https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html)). 
+(inspired by [Siraj Raval's](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) and [Christos Zonios'](https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html)). 
 
 This curriculum is meant to meant for beginner / intermediate programmers to go from little to no data science knowledge to general knowledge of the basics of machine learning and being able to understand and implement various ML algorithms to solve real-world problems. 
 
