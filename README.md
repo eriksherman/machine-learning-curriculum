@@ -4,7 +4,7 @@ Erik Sherman's machine learning curriculum
 
 This curriculum is meant for beginner / intermediate programmers to go from little to no data science knowledge to a solid general knowledge of machine learning algorithms and how to understand and implement them to solve real-world problems.
 
-* [web programming with python and javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript "CS50 course") (this is included so that we are able to create a GUI for apps and projects that we make)
+* [web programming with python and javascript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5 "CS50 course") (this is included so that we are able to create a GUI for apps and projects that we make)
 
 * [linear algebra intuition](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab "3Blue1Brown's series")
   * it is helpful to know the basics and build and intuition to linear algebra concepts, as they will come up in data science and machine learning
