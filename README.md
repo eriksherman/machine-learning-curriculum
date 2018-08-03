@@ -9,11 +9,13 @@ and [main course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-s
 
 * [web programming with python and javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript "CS50 course") (this is included so that we are able to create a GUI for apps and projects that we make)
 
-* python and data science basics ([intro](https://classroom.udacity.com/courses/ud359 "Udacity's intro to data science") and [main course](https://www.edx.org/course/python-for-data-science "GIT's course on edX"))
+* data science
+  * [pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+  * [matplotlib](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 
 * machine learning
-  * [intro to ML Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+  * [practical machine learning with python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
   * [Andrew NG's machine learning course](https://www.coursera.org/learn/machine-learning) this course is more math heavy and goes into the implementation of the algorithms. People who have taken the course recommend to write the assignments in python instead of octave to avoid having to learn another programming language and spending all your time debugging foreign code.
 
 
-* extra: [Andrew NG's deep learning course](https://www.coursera.org/learn/neural-networks-deep-learning) (in python!) to take our machine learning knowledge to the next level with deep learning
+* deep learning: [Andrew NG's deep learning course](https://www.coursera.org/learn/neural-networks-deep-learning) (in python!) to take our machine learning knowledge to the next level with deep learning
